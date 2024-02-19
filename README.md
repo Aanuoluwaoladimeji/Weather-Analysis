@@ -1,6 +1,6 @@
 # Weather-Analysis
 
-![]()
+![](aircraft-1813731_1280.jpg)
 
 ## Introduction
 JFK Airport is considering the weather conditions to help predict the possibility of precipitations, which involves using various local climatological variables, including temperature, wind speed, humidity, dew point, and pressure.
